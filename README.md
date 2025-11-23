@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZ5Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6Y3Z6YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QuxqWk7m9fffe/giphy.gif" width="100%" height="250"/>
+  <img src="https://media.giphy.com/media/HDr1cKPszsBQQ/giphy.gif" width="100%" height="250"/>
 </div>
 
 <h1 align="center">Olá, eu sou o Raul! (R4ulZ1N) 👋</h1>
