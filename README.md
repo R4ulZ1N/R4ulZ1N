@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTk3MDNlYjlzamF4ZGh2emo4a214bDBxY3k2cWoyZnV5aXdybzAwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" height="250"/>
 </div>
 
-<h1 align="center">Olá, eu sou o Raul! (R4ulZ1N) 👋</h1>
+<h1 align="center">Olá, eu sou o Raul!👋</h1>
 <h3 align="center">🎯 Focado em Data Analytics & Data Science</h3>
 
 <p align="center">
@@ -15,11 +15,11 @@
 - 🎓 Estudante/Entusiasta de Tecnologia e Dados.
 - 🔭 Atualmente trabalhando em projetos de **Análise Exploratória e Machine Learning**.
 - 💡 Interesse em: **Automação, Dashboards e Modelagem Preditiva**.
-- 🚀 Buscando evoluir cada vez mais em Python e SQL.
+- 🚀 Buscando evoluir cada vez mais em Python, SQL e ferramentas de visualização de Dados.
 
 ---
 
-### 🛠️ Minha Caixa de Ferramentas (Data Stack)
+### 🛠️ Data Stack
 Aqui estão as tecnologias que uso no meu dia a dia de análise:
 
 <div align="center">
